@@ -15,7 +15,7 @@
     "handlebars": "^4.7.3",
     "jquery": "^3.4.1",
     "less": "^3.10.3",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "grunt-contrib-concat": "^1.0.1",
